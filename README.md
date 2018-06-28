@@ -1,5 +1,5 @@
 # Rosalind
-Solutions to the problems presented on Rosalind
+Solutions to the problems presented at Rosalind
 
 Link: http://rosalind.info
 
